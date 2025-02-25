@@ -27,7 +27,7 @@
 - 📧 Email: agrawalraj.py@gmail.com   
 - 🐦 Twitter: No Twitter  
 - 💼 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/raj-agrawal-9498aa25b/)  
-- 🌎 Portfolio: Developement is in progress  
+- 🌎 Portfolio: Development is in progress  
 
 ## ⚡ Fun Facts  
 - 🐍 Python is my first love, but **sometimes Django ORM confuses me more than my life choices.**  
