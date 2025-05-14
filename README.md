@@ -8,14 +8,12 @@
 - 🌱 Learning **Backend Development, APIs, and ELK Stack**  
 - 🔍 Passionate about **problem-solving, automation, and writing clean, efficient code**  
 - 🤝 Open to **collaborating** on exciting projects, startups, and open-source contributions  
-- 🎯 Currently setting up **CI/CD pipelines** for Django deployments  
-- 🛠️ Exploring **Laravel** for fun (Yes, PHP & Python can coexist peacefully! 😆)  
+- 🎯 Currently setting up **CI/CD pipelines** for Django deployments
 
 ## 🔧 Tech Stack & Tools  
 ### **Languages & Frameworks**  
-- 🐍 **Python** | 🌐 **Django** | ⚡ **JavaScript** | 💾 **SQL**  
-- 🎨 **HTML/CSS** | 🎭 **Bootstrap**  
-- 🏗 **Laravel (beginner level, still battling composer issues 🤣)**  
+- 🐍 **Python** | 🌐 **Django** |🌐 **FastApi** |  ⚡ **JavaScript** | 💾 **SQL**  
+- 🎨 **HTML/CSS** | 🎭 **Bootstrap** 
 
 ### **Tools & Productivity Boosters**  
 - 🔎 **ELK Stack** for monitoring & logging  
@@ -27,7 +25,7 @@
 - 📧 Email: agrawalraj.py@gmail.com   
 - 🐦 Twitter: No Twitter  
 - 💼 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/raj-agrawal-9498aa25b/)  
-- 🌎 Portfolio: Development is in progress  
+- 🌎 Portfolio: https://raj-agrawal.onrender.com/  
 
 ## ⚡ Fun Facts  
 - 🐍 Python is my first love, but **sometimes Django ORM confuses me more than my life choices.**  
